@@ -1,0 +1,6 @@
+numpy==1.26.4
+plyfile
+tqdm
+./submodules/diff_gaussian_rasterization-0.0.0-cp310-cp310-linux_x86_64.whl
+./submodules/fused_ssim-0.0.0-cp310-cp310-linux_x86_64.whl
+./submodules/simple_knn-0.0.0-cp310-cp310-linux_x86_64.whl
